@@ -1,0 +1,27 @@
+@startuml
+class javax.swing.JFrame
+class javax.swing.JOptionPane
+class projetil1.Emplacements
+class projetil1.Exemplaire
+class projetil1.Identifier
+class projetil1.Livre
+class projetil1.Ressources
+class projetil1.Revue
+class projetil1.Utilisateur
+
+projetil1.Utilisateur --|> javax.swing.JFrame
+projetil1.Emplacements --|> javax.swing.JFrame
+projetil1.Exemplaire --|> javax.swing.JFrame
+projetil1.Identifier --|> javax.swing.JFrame
+projetil1.Livre --|> javax.swing.JFrame
+projetil1.Ressources --|> javax.swing.JFrame
+projetil1.Revue --|> javax.swing.JFrame
+
+
+projetil1.Identifier--projetil1.Utilisateur
+projetil1.Exemplaire"many"--"0..1"projetil1.Utilisateur
+projetil1.Exemplaire"many"--*"1"projetil1.Ressources
+projetil1.Ressources"many"--"1"projetil1.Emplacements
+projetil1.Livre--|>projetil1.Ressources
+projetil1.Revue--|>projetil1.Ressources
+@enduml

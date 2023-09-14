@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="453px" preserveAspectRatio="none" style="width:526px;height:453px;" version="1.1" viewBox="0 0 526 453" width="526px" zoomAndPan="magnify">
+    <defs>
+        <filter height="300%" id="f1fe34oy96nbn4" width="300%" x="-1" y="-1">
+            <feGaussianBlur result="blurOut" stdDeviation="2.0"/>
+            <feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/>
+            <feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/>
+            <feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/>
+        </filter>
+    </defs>
+    <g>
+        <!--MD5=[535aab4de90d4dfa371a9b40d5438fc3]
+cluster javax.swing-->
+        <polygon fill="#FFFFFF" filter="url(#f1fe34oy96nbn4)" points="151,346,239,346,246,369.6094,396,369.6094,396,446,151,446,151,346" style="stroke:#000000;stroke-width:1.5;"/>
+        <line style="stroke:#000000;stroke-width:1.5;" x1="151" x2="246" y1="369.6094" y2="369.6094"/>
+        <text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="82" x="155" y="362.5332">javax.swing</text>
+        <!--MD5=[52d7901c825ec9443075a0f7bc92b9a5]
+cluster projetil1-->
+        <polygon fill="#FFFFFF" filter="url(#f1fe34oy96nbn4)" points="16,6,80,6,87,29.6094,453,29.6094,453,322,16,322,16,6" style="stroke:#000000;stroke-width:1.5;"/>
+        <line style="stroke:#000000;stroke-width:1.5;" x1="16" x2="87" y1="29.6094" y2="29.6094"/>
+        <text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="58" x="20" y="22.5332">projetil1</text>
+        <!--MD5=[18a7562403221f513ca44e0f82c4c17a]
+class javax.swing.JFrame-->
+        <rect codeLine="1" fill="#FEFECE" filter="url(#f1fe34oy96nbn4)" height="48" id="javax.swing.JFrame" style="stroke:#A80036;stroke-width:1.5;" width="74" x="306" y="382"/>
+        <ellipse cx="321" cy="398" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/>
+        <path d="M323.7656,393.875 Q323.9219,393.6563 324.1094,393.5469 Q324.2969,393.4375 324.5156,393.4375 Q324.8906,393.4375 325.125,393.7031 Q325.3594,393.9531 325.3594,394.5625 L325.3594,396.0156 Q325.3594,396.625 325.125,396.8906 Q324.8906,397.1563 324.5156,397.1563 Q324.1719,397.1563 323.9688,396.9531 Q323.7656,396.7656 323.6563,396.25 Q323.6094,395.8906 323.4219,395.7031 Q323.0938,395.3281 322.4844,395.1094 Q321.875,394.8906 321.25,394.8906 Q320.4844,394.8906 319.8438,395.2188 Q319.2188,395.5469 318.7188,396.2969 Q318.2344,397.0469 318.2344,398.0781 L318.2344,399.1719 Q318.2344,400.4063 319.125,401.2344 Q320.0156,402.0469 321.6094,402.0469 Q322.5469,402.0469 323.2031,401.7969 Q323.5938,401.6406 324.0156,401.2031 Q324.2813,400.9375 324.4219,400.8594 Q324.5781,400.7813 324.7813,400.7813 Q325.1094,400.7813 325.3594,401.0469 Q325.625,401.2969 325.625,401.6406 Q325.625,401.9844 325.2813,402.3906 Q324.7813,402.9688 323.9844,403.2969 Q322.9063,403.75 321.6094,403.75 Q320.0938,403.75 318.8906,403.125 Q317.9063,402.625 317.2188,401.5625 Q316.5313,400.4844 316.5313,399.2031 L316.5313,398.0469 Q316.5313,396.7188 317.1406,395.5781 Q317.7656,394.4219 318.8594,393.8125 Q319.9531,393.1875 321.1875,393.1875 Q321.9219,393.1875 322.5625,393.3594 Q323.2188,393.5156 323.7656,393.875 Z " fill="#000000"/>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="42" x="335" y="402.9102">JFrame</text>
+        <line style="stroke:#A80036;stroke-width:1.5;" x1="307" x2="379" y1="414" y2="414"/>
+        <line style="stroke:#A80036;stroke-width:1.5;" x1="307" x2="379" y1="422" y2="422"/>
+        <!--MD5=[5874abc0d795fa5bedc3caa05a24ca80]
+class javax.swing.JOptionPane-->
+        <rect codeLine="2" fill="#FEFECE" filter="url(#f1fe34oy96nbn4)" height="48" id="javax.swing.JOptionPane" style="stroke:#A80036;stroke-width:1.5;" width="103" x="167.5" y="382"/>
+        <ellipse cx="182.5" cy="398" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/>
+        <path d="M185.2656,393.875 Q185.4219,393.6563 185.6094,393.5469 Q185.7969,393.4375 186.0156,393.4375 Q186.3906,393.4375 186.625,393.7031 Q186.8594,393.9531 186.8594,394.5625 L186.8594,396.0156 Q186.8594,396.625 186.625,396.8906 Q186.3906,397.1563 186.0156,397.1563 Q185.6719,397.1563 185.4688,396.9531 Q185.2656,396.7656 185.1563,396.25 Q185.1094,395.8906 184.9219,395.7031 Q184.5938,395.3281 183.9844,395.1094 Q183.375,394.8906 182.75,394.8906 Q181.9844,394.8906 181.3438,395.2188 Q180.7188,395.5469 180.2188,396.2969 Q179.7344,397.0469 179.7344,398.0781 L179.7344,399.1719 Q179.7344,400.4063 180.625,401.2344 Q181.5156,402.0469 183.1094,402.0469 Q184.0469,402.0469 184.7031,401.7969 Q185.0938,401.6406 185.5156,401.2031 Q185.7813,400.9375 185.9219,400.8594 Q186.0781,400.7813 186.2813,400.7813 Q186.6094,400.7813 186.8594,401.0469 Q187.125,401.2969 187.125,401.6406 Q187.125,401.9844 186.7813,402.3906 Q186.2813,402.9688 185.4844,403.2969 Q184.4063,403.75 183.1094,403.75 Q181.5938,403.75 180.3906,403.125 Q179.4063,402.625 178.7188,401.5625 Q178.0313,400.4844 178.0313,399.2031 L178.0313,398.0469 Q178.0313,396.7188 178.6406,395.5781 Q179.2656,394.4219 180.3594,393.8125 Q181.4531,393.1875 182.6875,393.1875 Q183.4219,393.1875 184.0625,393.3594 Q184.7188,393.5156 185.2656,393.875 Z " fill="#000000"/>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="71" x="196.5" y="402.9102">JOptionPane</text>
+        <line style="stroke:#A80036;stroke-width:1.5;" x1="168.5" x2="269.5" y1="414" y2="414"/>
+        <line style="stroke:#A80036;stroke-width:1.5;" x1="168.5" x2="269.5" y1="422" y2="422"/>
+        <!--MD5=[9ed159ba2107ff3c9a3bda335b59e978]
+class projetil1.Emplacements-->
+        <rect codeLine="3" fill="#FEFECE" filter="url(#f1fe34oy96nbn4)" height="48" id="projetil1.Emplacements" style="stroke:#A80036;stroke-width:1.5;" width="116" x="32" y="258"/>
+        <ellipse cx="47" cy="274" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/>
+        <path d="M49.7656,269.875 Q49.9219,269.6563 50.1094,269.5469 Q50.2969,269.4375 50.5156,269.4375 Q50.8906,269.4375 51.125,269.7031 Q51.3594,269.9531 51.3594,270.5625 L51.3594,272.0156 Q51.3594,272.625 51.125,272.8906 Q50.8906,273.1563 50.5156,273.1563 Q50.1719,273.1563 49.9688,272.9531 Q49.7656,272.7656 49.6563,272.25 Q49.6094,271.8906 49.4219,271.7031 Q49.0938,271.3281 48.4844,271.1094 Q47.875,270.8906 47.25,270.8906 Q46.4844,270.8906 45.8438,271.2188 Q45.2188,271.5469 44.7188,272.2969 Q44.2344,273.0469 44.2344,274.0781 L44.2344,275.1719 Q44.2344,276.4063 45.125,277.2344 Q46.0156,278.0469 47.6094,278.0469 Q48.5469,278.0469 49.2031,277.7969 Q49.5938,277.6406 50.0156,277.2031 Q50.2813,276.9375 50.4219,276.8594 Q50.5781,276.7813 50.7813,276.7813 Q51.1094,276.7813 51.3594,277.0469 Q51.625,277.2969 51.625,277.6406 Q51.625,277.9844 51.2813,278.3906 Q50.7813,278.9688 49.9844,279.2969 Q48.9063,279.75 47.6094,279.75 Q46.0938,279.75 44.8906,279.125 Q43.9063,278.625 43.2188,277.5625 Q42.5313,276.4844 42.5313,275.2031 L42.5313,274.0469 Q42.5313,272.7188 43.1406,271.5781 Q43.7656,270.4219 44.8594,269.8125 Q45.9531,269.1875 47.1875,269.1875 Q47.9219,269.1875 48.5625,269.3594 Q49.2188,269.5156 49.7656,269.875 Z " fill="#000000"/>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="84" x="61" y="278.9102">Emplacements</text>
+        <line style="stroke:#A80036;stroke-width:1.5;" x1="33" x2="147" y1="290" y2="290"/>
+        <line style="stroke:#A80036;stroke-width:1.5;" x1="33" x2="147" y1="298" y2="298"/>
+        <!--MD5=[06edebbe98412387aa89cd0e4264f7cf]
+class projetil1.Exemplaire-->
+        <rect codeLine="4" fill="#FEFECE" filter="url(#f1fe34oy96nbn4)" height="48" id="projetil1.Exemplaire" style="stroke:#A80036;stroke-width:1.5;" width="94" x="32" y="42"/>
+        <ellipse cx="47" cy="58" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/>
+        <path d="M49.7656,53.875 Q49.9219,53.6563 50.1094,53.5469 Q50.2969,53.4375 50.5156,53.4375 Q50.8906,53.4375 51.125,53.7031 Q51.3594,53.9531 51.3594,54.5625 L51.3594,56.0156 Q51.3594,56.625 51.125,56.8906 Q50.8906,57.1563 50.5156,57.1563 Q50.1719,57.1563 49.9688,56.9531 Q49.7656,56.7656 49.6563,56.25 Q49.6094,55.8906 49.4219,55.7031 Q49.0938,55.3281 48.4844,55.1094 Q47.875,54.8906 47.25,54.8906 Q46.4844,54.8906 45.8438,55.2188 Q45.2188,55.5469 44.7188,56.2969 Q44.2344,57.0469 44.2344,58.0781 L44.2344,59.1719 Q44.2344,60.4063 45.125,61.2344 Q46.0156,62.0469 47.6094,62.0469 Q48.5469,62.0469 49.2031,61.7969 Q49.5938,61.6406 50.0156,61.2031 Q50.2813,60.9375 50.4219,60.8594 Q50.5781,60.7813 50.7813,60.7813 Q51.1094,60.7813 51.3594,61.0469 Q51.625,61.2969 51.625,61.6406 Q51.625,61.9844 51.2813,62.3906 Q50.7813,62.9688 49.9844,63.2969 Q48.9063,63.75 47.6094,63.75 Q46.0938,63.75 44.8906,63.125 Q43.9063,62.625 43.2188,61.5625 Q42.5313,60.4844 42.5313,59.2031 L42.5313,58.0469 Q42.5313,56.7188 43.1406,55.5781 Q43.7656,54.4219 44.8594,53.8125 Q45.9531,53.1875 47.1875,53.1875 Q47.9219,53.1875 48.5625,53.3594 Q49.2188,53.5156 49.7656,53.875 Z " fill="#000000"/>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="62" x="61" y="62.9102">Exemplaire</text>
+        <line style="stroke:#A80036;stroke-width:1.5;" x1="33" x2="125" y1="74" y2="74"/>
+        <line style="stroke:#A80036;stroke-width:1.5;" x1="33" x2="125" y1="82" y2="82"/>
+        <!--MD5=[266d7f51007b8d3f676a2d0884fcb81c]
+class projetil1.Identifier-->
+        <rect codeLine="5" fill="#FEFECE" filter="url(#f1fe34oy96nbn4)" height="48" id="projetil1.Identifier" style="stroke:#A80036;stroke-width:1.5;" width="79" x="161.5" y="42"/>
+        <ellipse cx="176.5" cy="58" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/>
+        <path d="M179.2656,53.875 Q179.4219,53.6563 179.6094,53.5469 Q179.7969,53.4375 180.0156,53.4375 Q180.3906,53.4375 180.625,53.7031 Q180.8594,53.9531 180.8594,54.5625 L180.8594,56.0156 Q180.8594,56.625 180.625,56.8906 Q180.3906,57.1563 180.0156,57.1563 Q179.6719,57.1563 179.4688,56.9531 Q179.2656,56.7656 179.1563,56.25 Q179.1094,55.8906 178.9219,55.7031 Q178.5938,55.3281 177.9844,55.1094 Q177.375,54.8906 176.75,54.8906 Q175.9844,54.8906 175.3438,55.2188 Q174.7188,55.5469 174.2188,56.2969 Q173.7344,57.0469 173.7344,58.0781 L173.7344,59.1719 Q173.7344,60.4063 174.625,61.2344 Q175.5156,62.0469 177.1094,62.0469 Q178.0469,62.0469 178.7031,61.7969 Q179.0938,61.6406 179.5156,61.2031 Q179.7813,60.9375 179.9219,60.8594 Q180.0781,60.7813 180.2813,60.7813 Q180.6094,60.7813 180.8594,61.0469 Q181.125,61.2969 181.125,61.6406 Q181.125,61.9844 180.7813,62.3906 Q180.2813,62.9688 179.4844,63.2969 Q178.4063,63.75 177.1094,63.75 Q175.5938,63.75 174.3906,63.125 Q173.4063,62.625 172.7188,61.5625 Q172.0313,60.4844 172.0313,59.2031 L172.0313,58.0469 Q172.0313,56.7188 172.6406,55.5781 Q173.2656,54.4219 174.3594,53.8125 Q175.4531,53.1875 176.6875,53.1875 Q177.4219,53.1875 178.0625,53.3594 Q178.7188,53.5156 179.2656,53.875 Z " fill="#000000"/>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="47" x="190.5" y="62.9102">Identifier</text>
+        <line style="stroke:#A80036;stroke-width:1.5;" x1="162.5" x2="239.5" y1="74" y2="74"/>
+        <line style="stroke:#A80036;stroke-width:1.5;" x1="162.5" x2="239.5" y1="82" y2="82"/>
+        <!--MD5=[6c5b6cdeb260ac9ed4683d46cedffd12]
+class projetil1.Livre-->
+        <rect codeLine="6" fill="#FEFECE" filter="url(#f1fe34oy96nbn4)" height="48" id="projetil1.Livre" style="stroke:#A80036;stroke-width:1.5;" width="58" x="276" y="42"/>
+        <ellipse cx="291" cy="58" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/>
+        <path d="M293.7656,53.875 Q293.9219,53.6563 294.1094,53.5469 Q294.2969,53.4375 294.5156,53.4375 Q294.8906,53.4375 295.125,53.7031 Q295.3594,53.9531 295.3594,54.5625 L295.3594,56.0156 Q295.3594,56.625 295.125,56.8906 Q294.8906,57.1563 294.5156,57.1563 Q294.1719,57.1563 293.9688,56.9531 Q293.7656,56.7656 293.6563,56.25 Q293.6094,55.8906 293.4219,55.7031 Q293.0938,55.3281 292.4844,55.1094 Q291.875,54.8906 291.25,54.8906 Q290.4844,54.8906 289.8438,55.2188 Q289.2188,55.5469 288.7188,56.2969 Q288.2344,57.0469 288.2344,58.0781 L288.2344,59.1719 Q288.2344,60.4063 289.125,61.2344 Q290.0156,62.0469 291.6094,62.0469 Q292.5469,62.0469 293.2031,61.7969 Q293.5938,61.6406 294.0156,61.2031 Q294.2813,60.9375 294.4219,60.8594 Q294.5781,60.7813 294.7813,60.7813 Q295.1094,60.7813 295.3594,61.0469 Q295.625,61.2969 295.625,61.6406 Q295.625,61.9844 295.2813,62.3906 Q294.7813,62.9688 293.9844,63.2969 Q292.9063,63.75 291.6094,63.75 Q290.0938,63.75 288.8906,63.125 Q287.9063,62.625 287.2188,61.5625 Q286.5313,60.4844 286.5313,59.2031 L286.5313,58.0469 Q286.5313,56.7188 287.1406,55.5781 Q287.7656,54.4219 288.8594,53.8125 Q289.9531,53.1875 291.1875,53.1875 Q291.9219,53.1875 292.5625,53.3594 Q293.2188,53.5156 293.7656,53.875 Z " fill="#000000"/>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="26" x="305" y="62.9102">Livre</text>
+        <line style="stroke:#A80036;stroke-width:1.5;" x1="277" x2="333" y1="74" y2="74"/>
+        <line style="stroke:#A80036;stroke-width:1.5;" x1="277" x2="333" y1="82" y2="82"/>
+        <!--MD5=[e51e4363268a6f1764416df90e60d413]
+class projetil1.Ressources-->
+        <rect codeLine="7" fill="#FEFECE" filter="url(#f1fe34oy96nbn4)" height="48" id="projetil1.Ressources" style="stroke:#A80036;stroke-width:1.5;" width="100" x="190" y="150"/>
+        <ellipse cx="205" cy="166" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/>
+        <path d="M207.7656,161.875 Q207.9219,161.6563 208.1094,161.5469 Q208.2969,161.4375 208.5156,161.4375 Q208.8906,161.4375 209.125,161.7031 Q209.3594,161.9531 209.3594,162.5625 L209.3594,164.0156 Q209.3594,164.625 209.125,164.8906 Q208.8906,165.1563 208.5156,165.1563 Q208.1719,165.1563 207.9688,164.9531 Q207.7656,164.7656 207.6563,164.25 Q207.6094,163.8906 207.4219,163.7031 Q207.0938,163.3281 206.4844,163.1094 Q205.875,162.8906 205.25,162.8906 Q204.4844,162.8906 203.8438,163.2188 Q203.2188,163.5469 202.7188,164.2969 Q202.2344,165.0469 202.2344,166.0781 L202.2344,167.1719 Q202.2344,168.4063 203.125,169.2344 Q204.0156,170.0469 205.6094,170.0469 Q206.5469,170.0469 207.2031,169.7969 Q207.5938,169.6406 208.0156,169.2031 Q208.2813,168.9375 208.4219,168.8594 Q208.5781,168.7813 208.7813,168.7813 Q209.1094,168.7813 209.3594,169.0469 Q209.625,169.2969 209.625,169.6406 Q209.625,169.9844 209.2813,170.3906 Q208.7813,170.9688 207.9844,171.2969 Q206.9063,171.75 205.6094,171.75 Q204.0938,171.75 202.8906,171.125 Q201.9063,170.625 201.2188,169.5625 Q200.5313,168.4844 200.5313,167.2031 L200.5313,166.0469 Q200.5313,164.7188 201.1406,163.5781 Q201.7656,162.4219 202.8594,161.8125 Q203.9531,161.1875 205.1875,161.1875 Q205.9219,161.1875 206.5625,161.3594 Q207.2188,161.5156 207.7656,161.875 Z " fill="#000000"/>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="68" x="219" y="170.9102">Ressources</text>
+        <line style="stroke:#A80036;stroke-width:1.5;" x1="191" x2="289" y1="182" y2="182"/>
+        <line style="stroke:#A80036;stroke-width:1.5;" x1="191" x2="289" y1="190" y2="190"/>
+        <!--MD5=[01d163d11bfdb841d9b4c309d11a1443]
+class projetil1.Revue-->
+        <rect codeLine="8" fill="#FEFECE" filter="url(#f1fe34oy96nbn4)" height="48" id="projetil1.Revue" style="stroke:#A80036;stroke-width:1.5;" width="67" x="369.5" y="42"/>
+        <ellipse cx="384.5" cy="58" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/>
+        <path d="M387.2656,53.875 Q387.4219,53.6563 387.6094,53.5469 Q387.7969,53.4375 388.0156,53.4375 Q388.3906,53.4375 388.625,53.7031 Q388.8594,53.9531 388.8594,54.5625 L388.8594,56.0156 Q388.8594,56.625 388.625,56.8906 Q388.3906,57.1563 388.0156,57.1563 Q387.6719,57.1563 387.4688,56.9531 Q387.2656,56.7656 387.1563,56.25 Q387.1094,55.8906 386.9219,55.7031 Q386.5938,55.3281 385.9844,55.1094 Q385.375,54.8906 384.75,54.8906 Q383.9844,54.8906 383.3438,55.2188 Q382.7188,55.5469 382.2188,56.2969 Q381.7344,57.0469 381.7344,58.0781 L381.7344,59.1719 Q381.7344,60.4063 382.625,61.2344 Q383.5156,62.0469 385.1094,62.0469 Q386.0469,62.0469 386.7031,61.7969 Q387.0938,61.6406 387.5156,61.2031 Q387.7813,60.9375 387.9219,60.8594 Q388.0781,60.7813 388.2813,60.7813 Q388.6094,60.7813 388.8594,61.0469 Q389.125,61.2969 389.125,61.6406 Q389.125,61.9844 388.7813,62.3906 Q388.2813,62.9688 387.4844,63.2969 Q386.4063,63.75 385.1094,63.75 Q383.5938,63.75 382.3906,63.125 Q381.4063,62.625 380.7188,61.5625 Q380.0313,60.4844 380.0313,59.2031 L380.0313,58.0469 Q380.0313,56.7188 380.6406,55.5781 Q381.2656,54.4219 382.3594,53.8125 Q383.4531,53.1875 384.6875,53.1875 Q385.4219,53.1875 386.0625,53.3594 Q386.7188,53.5156 387.2656,53.875 Z " fill="#000000"/>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="35" x="398.5" y="62.9102">Revue</text>
+        <line style="stroke:#A80036;stroke-width:1.5;" x1="370.5" x2="435.5" y1="74" y2="74"/>
+        <line style="stroke:#A80036;stroke-width:1.5;" x1="370.5" x2="435.5" y1="82" y2="82"/>
+        <!--MD5=[a119c44507aa90d17e03130988d00cfb]
+class projetil1.Utilisateur-->
+        <rect codeLine="9" fill="#FEFECE" filter="url(#f1fe34oy96nbn4)" height="48" id="projetil1.Utilisateur" style="stroke:#A80036;stroke-width:1.5;" width="88" x="67" y="150"/>
+        <ellipse cx="82" cy="166" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/>
+        <path d="M84.7656,161.875 Q84.9219,161.6563 85.1094,161.5469 Q85.2969,161.4375 85.5156,161.4375 Q85.8906,161.4375 86.125,161.7031 Q86.3594,161.9531 86.3594,162.5625 L86.3594,164.0156 Q86.3594,164.625 86.125,164.8906 Q85.8906,165.1563 85.5156,165.1563 Q85.1719,165.1563 84.9688,164.9531 Q84.7656,164.7656 84.6563,164.25 Q84.6094,163.8906 84.4219,163.7031 Q84.0938,163.3281 83.4844,163.1094 Q82.875,162.8906 82.25,162.8906 Q81.4844,162.8906 80.8438,163.2188 Q80.2188,163.5469 79.7188,164.2969 Q79.2344,165.0469 79.2344,166.0781 L79.2344,167.1719 Q79.2344,168.4063 80.125,169.2344 Q81.0156,170.0469 82.6094,170.0469 Q83.5469,170.0469 84.2031,169.7969 Q84.5938,169.6406 85.0156,169.2031 Q85.2813,168.9375 85.4219,168.8594 Q85.5781,168.7813 85.7813,168.7813 Q86.1094,168.7813 86.3594,169.0469 Q86.625,169.2969 86.625,169.6406 Q86.625,169.9844 86.2813,170.3906 Q85.7813,170.9688 84.9844,171.2969 Q83.9063,171.75 82.6094,171.75 Q81.0938,171.75 79.8906,171.125 Q78.9063,170.625 78.2188,169.5625 Q77.5313,168.4844 77.5313,167.2031 L77.5313,166.0469 Q77.5313,164.7188 78.1406,163.5781 Q78.7656,162.4219 79.8594,161.8125 Q80.9531,161.1875 82.1875,161.1875 Q82.9219,161.1875 83.5625,161.3594 Q84.2188,161.5156 84.7656,161.875 Z " fill="#000000"/>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="56" x="96" y="170.9102">Utilisateur</text>
+        <line style="stroke:#A80036;stroke-width:1.5;" x1="68" x2="154" y1="182" y2="182"/>
+        <line style="stroke:#A80036;stroke-width:1.5;" x1="68" x2="154" y1="190" y2="190"/>
+        <!--MD5=[b8efc16b5c450f03de94a1a34637c2b7]
+link projetil1.Utilisateur to javax.swing.JFrame-->
+        <path codeLine="11" d="M130.5,198.22 C158.82,230.88 214.21,290.75 271,330 C277.87,334.75 281.41,332.87 288,338 C298.12,345.88 307.59,355.93 315.73,365.85 " fill="none" id="projetil1.Utilisateur-to-javax.swing.JFrame" style="stroke:#A80036;stroke-width:1.0;"/>
+        <polygon fill="none" points="321.48,361.83,328.05,381.98,310.35,370.33,321.48,361.83" style="stroke:#A80036;stroke-width:1.0;"/>
+        <!--MD5=[d13e7b89ab94367ef22262a390b47c60]
+link projetil1.Emplacements to javax.swing.JFrame-->
+        <path codeLine="12" d="M123.64,306.04 C138.69,315.14 157.05,324.69 175,330 C199.14,337.15 265.64,326.44 288,338 C300.19,344.3 310.68,354.62 319.13,365.29 " fill="none" id="projetil1.Emplacements-to-javax.swing.JFrame" style="stroke:#A80036;stroke-width:1.0;"/>
+        <polygon fill="none" points="324.97,361.42,330.68,381.83,313.49,369.44,324.97,361.42" style="stroke:#A80036;stroke-width:1.0;"/>
+        <!--MD5=[fa6ce3f567dea215b4a431b4d7b7b4d2]
+link projetil1.Exemplaire to javax.swing.JFrame-->
+        <path codeLine="13" d="M126.06,83.72 C192.64,107.42 306.5,148.14 308,150 C356.87,210.46 355.48,306.51 349.57,361.86 " fill="none" id="projetil1.Exemplaire-to-javax.swing.JFrame" style="stroke:#A80036;stroke-width:1.0;"/>
+        <polygon fill="none" points="356.49,362.93,347.04,381.89,342.61,361.17,356.49,362.93" style="stroke:#A80036;stroke-width:1.0;"/>
+        <!--MD5=[c193482333147957942af741fdf583ac]
+link projetil1.Identifier to javax.swing.JFrame-->
+        <path codeLine="14" d="M240.6,83.93 C287.89,104.54 361.6,138.08 369,150 C409.73,215.55 383.35,309.3 362.09,362.97 " fill="none" id="projetil1.Identifier-to-javax.swing.JFrame" style="stroke:#A80036;stroke-width:1.0;"/>
+        <polygon fill="none" points="368.4,366.02,354.2,381.75,355.49,360.6,368.4,366.02" style="stroke:#A80036;stroke-width:1.0;"/>
+        <!--MD5=[93c9610ceaf4f17c566e177ff5ee8e1d]
+link projetil1.Livre to javax.swing.JFrame-->
+        <path codeLine="15" d="M334.26,82.98 C372.15,103.96 434.08,139.4 440,150 C479.04,219.83 475.25,258.19 440,330 C430.69,348.96 414.03,364.49 397.1,376.4 " fill="none" id="projetil1.Livre-to-javax.swing.JFrame" style="stroke:#A80036;stroke-width:1.0;"/>
+        <polygon fill="none" points="400.65,382.45,380.02,387.3,393.12,370.64,400.65,382.45" style="stroke:#A80036;stroke-width:1.0;"/>
+        <!--MD5=[bce6324b6a56b86ddf6a80469c2339bc]
+link projetil1.Ressources to javax.swing.JFrame-->
+        <path codeLine="16" d="M250.44,198.32 C267.8,237.08 302.81,315.26 324.45,363.58 " fill="none" id="projetil1.Ressources-to-javax.swing.JFrame" style="stroke:#A80036;stroke-width:1.0;"/>
+        <polygon fill="none" points="330.9,360.85,332.68,381.96,318.12,366.57,330.9,360.85" style="stroke:#A80036;stroke-width:1.0;"/>
+        <!--MD5=[5c874d2ad23b11edc9314db9c758b1b6]
+link projetil1.Revue to javax.swing.JFrame-->
+        <path codeLine="17" d="M431.64,90.31 C447.9,105.42 466.8,126.6 476,150 C505.27,224.46 519.68,261.1 479,330 C461.71,359.29 428.44,377.92 399.14,389.29 " fill="none" id="projetil1.Revue-to-javax.swing.JFrame" style="stroke:#A80036;stroke-width:1.0;"/>
+        <polygon fill="none" points="401.38,395.92,380.19,395.9,396.77,382.7,401.38,395.92" style="stroke:#A80036;stroke-width:1.0;"/>
+        <!--MD5=[fd93dbad07f586414a12ebee4f4678db]
+link projetil1.Identifier to projetil1.Utilisateur-->
+        <path codeLine="20" d="M181.47,90 C166.48,107.66 145.86,131.94 130.8,149.68 " fill="none" id="projetil1.Identifier-projetil1.Utilisateur" style="stroke:#A80036;stroke-width:1.0;"/>
+        <!--MD5=[fc5956b97553813a45f6f8891cc32ec3]
+link projetil1.Exemplaire to projetil1.Utilisateur-->
+        <path codeLine="21" d="M85.94,90 C91.27,107.66 98.6,131.94 103.96,149.68 " fill="none" id="projetil1.Exemplaire-projetil1.Utilisateur" style="stroke:#A80036;stroke-width:1.0;"/>
+        <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="32" x="51.7316" y="111.338">many</text>
+        <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="22" x="77.5628" y="139.34">0..1</text>
+        <!--MD5=[f03a5520b48fd27fd9934d35127d9926]
+link projetil1.Exemplaire to projetil1.Ressources-->
+        <path codeLine="22" d="M113.93,90 C137.38,105.44 168.51,125.93 193.97,142.69 " fill="none" id="projetil1.Exemplaire-to-projetil1.Ressources" style="stroke:#A80036;stroke-width:1.0;"/>
+        <polygon fill="#A80036" points="204.86,149.86,202.046,143.2206,194.835,143.2646,197.649,149.904,204.86,149.86" style="stroke:#A80036;stroke-width:1.0;"/>
+        <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="32" x="86.5442" y="111.338">many</text>
+        <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="7" x="187.9585" y="139.1643">1</text>
+        <!--MD5=[e5eb942cec15d25e94a02bb45671b2fd]
+link projetil1.Ressources to projetil1.Emplacements-->
+        <path codeLine="23" d="M207.45,198 C182.38,215.72 147.87,240.11 122.74,257.86 " fill="none" id="projetil1.Ressources-projetil1.Emplacements" style="stroke:#A80036;stroke-width:1.0;"/>
+        <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="32" x="163.6159" y="219.338">many</text>
+        <text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="7" x="123.2328" y="247.1643">1</text>
+        <!--MD5=[0e0b2a962745dfef06cec4da22e0119c]
+link projetil1.Livre to projetil1.Ressources-->
+        <path codeLine="24" d="M290.9,90 C283.28,102.42 273.66,118.11 264.84,132.49 " fill="none" id="projetil1.Livre-to-projetil1.Ressources" style="stroke:#A80036;stroke-width:1.0;"/>
+        <polygon fill="none" points="270.72,136.29,254.3,149.68,258.79,128.97,270.72,136.29" style="stroke:#A80036;stroke-width:1.0;"/>
+        <!--MD5=[8c7536fb2d620dac85d9735a51e6f6ab]
+link projetil1.Revue to projetil1.Ressources-->
+        <path codeLine="25" d="M369.23,88.96 C347.06,103.38 317.62,122.53 292.44,138.9 " fill="none" id="projetil1.Revue-to-projetil1.Ressources" style="stroke:#A80036;stroke-width:1.0;"/>
+        <polygon fill="none" points="296,144.93,275.42,149.96,288.37,133.19,296,144.93" style="stroke:#A80036;stroke-width:1.0;"/>
+        <!--MD5=[ee689d292283482f7f78657ba36d1066]
+@startuml
+class javax.swing.JFrame
+class javax.swing.JOptionPane
+class projetil1.Emplacements
+class projetil1.Exemplaire
+class projetil1.Identifier
+class projetil1.Livre
+class projetil1.Ressources
+class projetil1.Revue
+class projetil1.Utilisateur
+
+projetil1.Utilisateur - -|> javax.swing.JFrame
+projetil1.Emplacements - -|> javax.swing.JFrame
+projetil1.Exemplaire - -|> javax.swing.JFrame
+projetil1.Identifier - -|> javax.swing.JFrame
+projetil1.Livre - -|> javax.swing.JFrame
+projetil1.Ressources - -|> javax.swing.JFrame
+projetil1.Revue - -|> javax.swing.JFrame
+
+
+projetil1.Identifier- -projetil1.Utilisateur
+projetil1.Exemplaire"many"- -"0..1"projetil1.Utilisateur
+projetil1.Exemplaire"many"- -*"1"projetil1.Ressources
+projetil1.Ressources"many"- -"1"projetil1.Emplacements
+projetil1.Livre- -|>projetil1.Ressources
+projetil1.Revue- -|>projetil1.Ressources
+@enduml
+
+PlantUML version 1.2021.3(Mon Mar 22 17:53:19 WAT 2021)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: Cp1252
+Language: fr
+Country: FR
+-->
+    </g>
+</svg>
